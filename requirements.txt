@@ -1,0 +1,4 @@
+numpy #Numerical computations
+opencv-python # Image processing
+pillow  # Image handling
+pytest
