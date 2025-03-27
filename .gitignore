@@ -1,0 +1,22 @@
+# Python cache
+__pycache__/
+**/__pycache__/
+*.pyc
+*.pyo
+
+# Environments and settings
+.venv/
+.env/
+.vscode/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.swp
+*.swo
+.DS_Store
+
+# Test artifacts
+.coverage
+htmlcov/
+*.pytest_cache/
