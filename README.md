@@ -38,11 +38,11 @@ Originally created as an 8-puzzle game, it was later upgraded to a full 15-tile 
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/yourusername/15-tile-puzzle-solver.git
-cd 15-tile-puzzle-solver
+git clone https://github.com/erensonmezx/fifteen-tile-puzzle-solver.git
+cd fifteen-tile-puzzle-solver
 
-# 2. Install required packages
-pip install numpy opencv-python pillow
+# 2. Install required packages for your enviroment
+pip install -r requirements.txt
 
 # 3. Run the application
 python main.py
