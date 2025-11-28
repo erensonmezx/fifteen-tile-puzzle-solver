@@ -1,4 +1,4 @@
-# 🧩 15-Tile Puzzle Solver with GUI
+# 15-Tile Puzzle Solver with GUI
 
 An interactive 15-tile sliding puzzle solver implemented in Python. This project features a graphical user interface (GUI), custom image-based tiles, and a real-time solver using the A* algorithm with Manhattan distance heuristic.
 
@@ -6,15 +6,15 @@ Originally created as an 8-puzzle game, it was later upgraded to a full 15-tile 
 
 ---
 
-## 🔍 Features
+## Features
 
-- 🖼️ **Image-Based Tiles**  
+-  **Image-Based Tiles**  
   Load any image and automatically split it into 15 tiles for gameplay.
 
-- 🧠 **A\* Algorithm Solver**  
+-  **A\* Algorithm Solver**  
   Solves the puzzle optimally using the Manhattan distance heuristic.
 
-- 🎮 **Interactive GUI with Tkinter**  
+-  **Interactive GUI with Tkinter**  
   - Shuffle into a random **solvable** state  
   - Step-by-step solution playback  
   - Manual tile movement supported
@@ -24,9 +24,9 @@ Originally created as an 8-puzzle game, it was later upgraded to a full 15-tile 
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-- **Python 3**
+- **Python**
 - `tkinter` – for GUI  
 - `opencv-python` – for image handling  
 - `Pillow` – for additional image manipulation  
@@ -34,7 +34,7 @@ Originally created as an 8-puzzle game, it was later upgraded to a full 15-tile 
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 ```bash
 # 1. Clone the repository
